@@ -1,1 +1,1 @@
-# actividad_4
+# actividad_4_extracciónCaracteristicas
